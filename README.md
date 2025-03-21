@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mohamed Mourad 👋
 
-<!--
-**MohamedMourad1/MohamedMourad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Motivated and results-driven Data Scientist specializing in Artificial Intelligence and Machine Learning.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Data Scientist with a passion for leveraging AI and Machine Learning to solve complex problems. I have a strong foundation in programming and practical experience in developing effective AI solutions. I'm adept at collaborating with teams and quickly adapting to new technologies. My goal is to continuously improve efficiency through innovative AI applications and ongoing learning.
+
+## Skills
+
+* **Programming Languages:** Python, C++, Julia, Swift
+* **Data Analysis & Visualization:** Pandas, NumPy, SQL, Matplotlib
+* **Machine Learning & Deep Learning:** TensorFlow, Scikit-learn, Keras, PyTorch
+* **Specializations:** Machine Learning, Deep Learning, Natural Language Processing (NLP)
+
+## Connect with Me
+
+* **Email:** [mohamedmourad6548@gmail.com](mailto:mohamedmourad6548@gmail.com)
+* **LinkedIn:** [http://www.linkedin.com/in/mohamed-mourad-19142a22a](http://www.linkedin.com/in/mohamed-mourad-19142a22a)
